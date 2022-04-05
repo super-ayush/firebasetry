@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IPL01</string>
+    <string name="TabName1">Expert 11</string>
+    <string name="TabName2">Last Match Ranks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textview1">Rank</string>
+    <string name="textview2">Name</string>
+    <string name="textview3">Points</string>
+    <string name="textview4">Team</string>
+    <string name="Points">999</string>
+    <string name="Rank">14</string>
+    <string name="Name">Anurag Dwivedi</string>
+    <string name="dP">Profile Pic</string>
+    <string name="team">Team Image</string>
+</resources>
